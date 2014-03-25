@@ -7,4 +7,4 @@ update flowhub.json with correct ip, your user id from http://noflojs.org/noflo-
 Maybe perform `assume-unchanged` on this file so you don't overwrite it.<br/>
 run `node node_modules/.bin/noflo-nodejs`.<br/>
 Refresh runtimes in noflo-ui and start building<br/>
-
+Graphs are logged in the graphs folder<br/>
