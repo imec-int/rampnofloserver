@@ -2,6 +2,6 @@
   "id": "515c468a-396e-46a8-bf47-10c28395e2b0",
 "user": "ab86ece4-b3f3-46be-a376-039cef4e1b72",
   "host": "79.125.104.242",
-  "port": 80,
+  "port": 3000,
   "label": "MiX EC2 runtime"
 }
