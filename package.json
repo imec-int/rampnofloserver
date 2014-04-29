@@ -21,6 +21,6 @@
     "noflo-core": "*",
     "noflo-nodejs": "git://github.com/mixbe/noflo-nodejs",
     "noflo-handyman": "git://github.com/mixbe/noflo-handyman",
-    "ramp": "git://github.com/mixbe/RAMP_noflo_components"
+    "webdox": "git://github.com/kaosbeat/webdox_noflo_components"
   }
 }
