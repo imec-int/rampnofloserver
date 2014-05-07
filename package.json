@@ -28,6 +28,7 @@
     "noflo-csv": "0.0.1",
     "noflo-packets": "git://github.com/mixbe/noflo-packets#counter-reset",
     "noflo-math": "git://github.com/mixbe/noflo-math#modulo-component",
-    "noflo-twitter": "0.0.1"
+    "noflo-twitter": "0.0.1",
+    "noflo-objects": "^0.1.9"
   }
 }
