@@ -20,10 +20,13 @@
     "noflo": "*",
     "noflo-websocket": "*",
     "noflo-core": "*",
+    "noflo-flow": "^0.3.3",
     "noflo-nodejs": "git://github.com/mixbe/noflo-nodejs",
     "noflo-handyman": "git://github.com/mixbe/noflo-handyman",
     "noflo-JQ": "git://github.com/kaosbeat/noflo-JQ",
     "webdox": "git://github.com/kaosbeat/webdox_noflo_components",
-    "noflo-csv": "0.0.1"
+    "noflo-csv": "0.0.1",
+    "noflo-packets": "git://github.com/mixbe/noflo-packets#counter-reset",
+    "noflo-math": "git://github.com/mixbe/noflo-math#modulo-component"
   }
 }
