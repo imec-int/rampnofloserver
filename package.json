@@ -18,9 +18,12 @@
   "homepage": "https://github.com/mixbe/rampnofloserver",
   "dependencies": {
     "noflo": "*",
+    "noflo-websocket": "*",
     "noflo-core": "*",
     "noflo-nodejs": "git://github.com/mixbe/noflo-nodejs",
     "noflo-handyman": "git://github.com/mixbe/noflo-handyman",
-    "webdox": "git://github.com/kaosbeat/webdox_noflo_components"
+    "noflo-JQ": "git://github.com/kaosbeat/noflo-JQ",
+    "webdox": "git://github.com/kaosbeat/webdox_noflo_components",
+    "noflo-csv": "0.0.1"
   }
 }
